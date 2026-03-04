@@ -8,7 +8,7 @@ The project develops a multi-scale analytical framework to study food availabili
 
 ## Contents
 - Colab notebook: main analysis
-- Data sources: FRED, BEA, BLS, USDA ERS, EPA, ReFED
+- Data sources: FRED, BEA, BLS, USDA ERS, EPA, ReFED, Slobotsky (2020)
 
 ## Data Sources
 All data used are publicly available:
@@ -18,6 +18,7 @@ All data used are publicly available:
 - BLS
 - EPA
 - ReFED
+- [Slobotsky (2020)] (https://slobotsky.github.io/schoolportfolio.html) (county food waste estimate)
 
 Raw datasets are not included in this repository.
 
